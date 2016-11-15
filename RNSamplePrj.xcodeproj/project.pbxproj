@@ -240,6 +240,7 @@
 		FBDA940A1DD99F7F00C6257A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = DH;
 				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = "胡大海";
 				TargetAttributes = {
@@ -559,7 +560,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = RNSamplePrj/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.fengjr.mobile.RNSamplePrj;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xxx.ooo.RNSamplePrj;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -572,7 +573,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = RNSamplePrj/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.fengjr.mobile.RNSamplePrj;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xxx.ooo.RNSamplePrj;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
